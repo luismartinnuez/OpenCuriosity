@@ -1,7 +1,11 @@
 OpenCuriosity
 =============
 
+.. image:: https://pbs.twimg.com/profile_images/457855333721858048/qGqLQ3Cc.jpeg
+
 "Follow your curiosity, Open your mind": OpenCuriosity is an open source, exomars rover (1:5 scale) with arduino as main controller, based on the NASA Curiosity rover. It contains a set of Arduino boards and sensors. The general public will be allowed to use these Arduinos and sensors for their own creative purposes while they are in space. All the people will be allowed to integrate their project in the robot, and the data gathered will be available on the internet in order to share this information with the general public for educational, science or other purposes.
+
+.. video:: https://raw.github.com/dlabs-co/ZeroCaloriesCanDispenser/master/pics/1.jpg
 
 
 Description
@@ -16,8 +20,14 @@ The robot use the sensors to sense the obstacles around the area and avoid colli
 
 Hardware
 =============
-Coming soon!
+You'll find  in OpenCuriosity/hardware/ directory, just burn and have fun!
 
 Software
 =============
-Coming soon!
+You'll find  in OpenCuriosity/software/ directory, just burn and have fun!
+
+Some Pics
+=============
+
+.. image:: https://scontent-a-cdg.xx.fbcdn.net/hphotos-ash3/t1.0-9/10247350_10202200918571497_5557148778626798963_n.jpg
+
