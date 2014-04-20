@@ -29,5 +29,5 @@ You'll find  in OpenCuriosity/software/ directory, just burn and have fun!
 Some Pics
 =============
 
-.. image:: https://scontent-a-cdg.xx.fbcdn.net/hphotos-ash3/t1.0-9/10247350_10202200918571497_5557148778626798963_n.jpg
+.. image:: https://raw.github.com/luismartinnuez/OpenCuriosity/Master/pics/10172657_10202176595443434_7606498553558959322_n.jpg
 
