@@ -31,3 +31,6 @@ Some Pics
 
 .. image:: https://raw.github.com/luismartinnuez/OpenCuriosity/Master/pics/10172657_10202176595443434_7606498553558959322_n.jpg
 
+.. image:: https://raw.github.com/dlabs-co/ZeroCaloriesCanDispenser/master/pics/1.jpg
+
+
